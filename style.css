@@ -1,0 +1,101 @@
+body {
+  	background: url("background.jpeg") center;
+    background-attachment: scroll;
+	min-height: 100%;
+	background-size: cover;
+	background-color: #ffffff;
+	padding: 0px 30px;
+	font-size: 20px;
+  	font-family: "Bookman Old Style", "Footlight MT Light", "Times New Roman", Cambria, sans-serif;
+ 	color: hsl(0, 100%, 100%);
+	text-align: center;
+}	
+
+h1{
+	font-size: 150%;
+	font-weight: 700;
+	text-align: center;
+	margin: 50px;
+}
+
+h2 {
+	font-size: 150%;
+	margin: 40px;
+	text-align: center;
+}
+
+h3 {
+	font-size: 120%;
+	margin: 40px;
+	text-align: center;
+}
+
+h4 {
+	font-size: 130%;
+	margin: 40px;
+	text-align: center;
+}
+
+.block-navigation {
+	padding: 15px;
+	font-weight: 700;
+}
+
+nav, a {
+	font-family: "Bookman Old Style", "Footlight MT Light", "Times New Roman", Cambria, sans-serif;
+	font-size: 105%;
+	color: #fffefe;
+	font-weight: 600;
+	text-align: left;
+	margin: 1% 5%;
+}
+
+li {
+	margin: 15px 50px;
+}
+
+.avatar {
+	border-radius: 50%;
+	text-align: center;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.about_text {
+	text-align: center;
+	padding: 0px 30px;
+	margin: 40px 60px;
+	border: 2px solid #292a29;
+	border-radius: 20px;
+	padding: 20px;
+	background-color: #363535;
+	color: #e0e0e0;
+}
+
+.video {
+	text-align: center;
+	margin: 1% 5%;
+}
+
+footer {
+	text-align: center;
+	margin: 80px;
+}
+
+.contacts {
+	margin: 20px;
+    padding: 20px;
+	text-align: center;	
+}
+
+.mail {
+    margin: 20px;
+}
+
+.github {
+    margin: 20px; 
+}
+
+.telegram {
+    margin: 20px;
+}
